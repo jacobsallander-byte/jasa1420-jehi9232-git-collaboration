@@ -1,4 +1,3 @@
-Användare på GitHub: [Ditt GitHub-användarnamn]
+nvändare på GitHub: jacobsallander-byte
 Namn: Jacob Sallander
-Epost: [ditt.namn.siffror]@student.uu.se
-
+Epost: jacob.sallander.1420@student.uu.se
